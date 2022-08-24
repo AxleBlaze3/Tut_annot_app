@@ -17,7 +17,8 @@ def on_change_slowdown():
 df = pd.read_csv("tut_annot_sheet.csv")
 df = df.fillna("")
 df_rows = len(df)
-
+candidates_sel=""
+num_cands=-1
 st.markdown("**1. Example Selection**")
 st.markdown("Please use the control box below to move through the examples.")
 
@@ -127,13 +128,13 @@ if st.button('Save'):
         if len(candidates_sel)>5:
             casePass=False
         if index==8:
-            exp3="\n\n **Reads** and **Studied** best reflect the metaphorical use of absorbed in the literal sense"
+            exp3="\n\n **Reads** , **Studied** and **Tasted** best preserve the meaning of the original sentence."
             exp2="\n\nOptimal literal candidates: "+str(ans)
             
         else:
             exp2="\n\nOptimal metaphorical candidates: "+str(ans)
-            exp3="\n\n **Shipping** and **Delivering** best reflect the literal use of releasing in the metaphorical sense"
-        if num_cands!=2:
+            exp3="\n\n **Shipping** , **Delivering** and **Initiating** best reflect the literal use of releasing in the metaphorical sense"
+        if num_cands!=2 and num_cands!=3:
             casePass=False
         if sent_met==man_sent and verb_met==man_verb and casePass:
             st.success("Correcto!\n\n " + exp + exp2 + exp3 )
