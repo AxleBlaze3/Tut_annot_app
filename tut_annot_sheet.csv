@@ -1,0 +1,42 @@
+url,Text,focus_verb,stem,root_idx,annot_4_sent,annot_4_verb,literal_cands,metaphorical_cands,predicted_label,Message
+,He walked yesterday.,walked,,1,"No, it is Literal","No, it is Literal",,,,"Lexical Units: He/walked/yesterday ;
+Looking at lexical unit **walked** specifically : ;
+Contextual meaning: physical activity involving the motion of moving one foot in front of the other. ;
+Basic Meaning: Move forwards by putting one foot in front of the other. ;
+Context vs Basic: Both have similar meaning, no contrast. Hence it is literal "
+,The car drinks gasoline,drinks,,2,"Yes, it is Metaphorical","Yes, it is Metaphorical",,,,"Lexical Units: The/car/drinks/gasoline ;
+Looking at the lexical unit **drinks** : ;
+Contextual meaning: A machine consuming fuel ;
+Basic meaning: Take in liquid into the body, through the mouth. ;
+Context vs Basic: Yes, the contextual meaning contrasts the basic meaning, but can be understood in comparison with it. Hence it is metaphorical."
+http://beforeitsnews.com/crime-all-stars/2017/11/justice-department-announces-compensation-process-for-western-union-fraud-victims-with-funds-recovered-through-asset-forfeiture-2461755.html,Justice Department Announces Compensation Process for Western Union Fraud Victims With Funds Recovered Through Asset Forfeiture,Announces,announc,2,Invalid,Invalid,,,,"Metonymy: figure of speech in which a thing or concept is referred to by the name of something closely associated with that thing or concept.  ;
+Example: The Pentagon, the headquarters building of the United States Department of Defense, is a common metonym used to refer to the U.S. military and its leadership. (wikipedia). ;
+Lexical Unit **Justice Dept** here is an example of metonymy. Hence for our study should not be treated as metaphorical i.e. Justice Dept performing any action that can be literally performed by the leadership/members of the dept should be treated as literal. ; **For our study metonymy should be labelled as Invalid**"
+https://www.nytimes.com/2017/10/05/fashion/rupi-kaur-poetry-the-sun-and-her-flowers.html,Rupi Kaur Is Kicking Down the Doors of Publishing,Kicking,kick,3,Invalid,Invalid,,,,"Idioms: a group of words established by usage as having a meaning not deducible from those of the individual words. ;
+Lexical Units in this example: Rupi Kaur/Is/Kicking Down The Doors/of/Publishing. ;
+Kicking down the doors is the idiom here whose basic meaning and metaphorical meaning is the same. ;
+**For our study idioms are labelled as Invalid**"
+,"Union Urges Gay Teachers to Come Out in the Classroom, Teach LGBT Experiences",Teach,teach,10,"No, it is Literal","No, it is Literal",,,,"Lexical Units: Union/Urges/Gay/Teachers/to/Come Out/in/the/Classroom/Teach/LGBT/Experiences ;
+Every lexical unit in this example has a contextual meaning similar to the basic meaning. "
+https://www.newsmax.com/Politics/roy-moore-lawyer-reject-accuser/2017/11/15/id/826409/,Egypt Opens Criminal Inquiry Over New York Times Article,Opens,open,1,"Yes, it is Metaphorical","Yes, it is Metaphorical",,,,"Here looking at the lexical unit **opens** : ;
+Contextual meaning: Used to indicate the beginning/start of a process (criminal inquiry) ;
+Basic meaning: to move something to look inside ;
+Context vs basic: Yes, contrasting but understandable, Starting the inquiry and looking into the relevant issues. Hence it is metaphorical ;
+Note: There is a metonymy present in the sentence ""Eqypt"" but after considering it to be the governing Body of Egypt, there exist other lexical units within the same sentence whose use make the sentence metaphorical."
+https://www.dailykos.com/stories/2017/09/04/1695774/-Trump-administration-continues-to-torture-young-DREAMers-with-sadistic-leaks-and-rumors,Trump administration continues to torture young DREAMers with sadistic leaks and rumors,continues,continu,2,"Yes, it is Metaphorical","No, it is Literal",,,,"Here looking at the lexical unit **torture** : ;
+Contextual meaning: political organization causing mental agony to ambitious people. ;
+Basic Meaning: Extreme physical pain caused by someone or something, especially as a punishment or as a way to make someone say something. ;
+Context vs Basic: Yes, it's contrasting but can be understood in comparison. Hence it is metaphorical ;
+Focus Verb: In this case focus verb is being used literally"
+,We have to regurgitate everything we learned on the final.,regurgitate,,3,"Yes, it is Metaphorical","Yes, it is Metaphorical",,,,"Looking at the lexical unit **regurgitate** :  ;
+Contextual meaning: To write something out without understanding it well, exams ;
+Basic Meaning: feeling sick and vomitting ;
+Context vs Basic: Yes, there is contrast but the contextual meaning can be understood in comparison with the basic meaning. Hence it is metaphorical"
+,He absorbed the knowledge and beliefs of his tribe,absorbed,,1,"Yes, it is Metaphorical","Yes, it is Metaphorical","['explains', 'reads', 'preached', 'tasted','reviewed', 'envisioned', 'studied', 'dreamed']","['explains', 'reads', 'preached', 'studied']", ,"Here looking at the lexical unit **absorbed** : ;
+Contextual meaning: Learning and acknowledging certain beliefs/traditions. ;
+Basic meaning: To take in gas/liquid ;
+Context vs Basic: Context vs Basic: Yes, there is contrast but the contextual meaning can be understood in comparison with the basic meaning hence it is metaphorical. ;"
+,Taylor Swift is releasing her own app 'The Swift Life',releasing,,3,"No, it is Literal","No, it is Literal","['introducing' ,'initiating', 'delivering', 'embracing', 'shipping', 'airing', 'developing', 'promoting']","['delivering', 'embracing', 'shipping', 'airing']",,"Looking specifically at the lexical unit **releasing** :  ;
+Contextual meaning: Introduce something new to the public. ;
+Basic meaning: Make something public. ;
+Every lexical unit in this example has a contextual meaning similar to the basic meaning. Hence it is literal ;"
